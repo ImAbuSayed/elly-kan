@@ -1,5 +1,9 @@
 # Elly Kan
 
+![Elly Kan feature image](https://raw.githubusercontent.com/ImAbuSayed/abu-sayed-song-media/main/songs/elly-kan/feature/20260424194621-Elly-Kan.png)
+
+---
+
 **An original song written and composed by [Abu Sayed](https://abusayed.com.bd/)**
 
 ---
@@ -11,6 +15,8 @@
 | Title | Elly Kan |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
 | Lyric Writing Date | April 24, 2026 |
+| Song Creation Date | April 25, 2026 |
+| Song Page | [Open Song Page](https://imabusayed.github.io/elly-kan/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
 
